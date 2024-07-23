@@ -1,4 +1,4 @@
-# Java-All-Projects
+# Java-Projects
 
  
 # 1. Console-Applications 
