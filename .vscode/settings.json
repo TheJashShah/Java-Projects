@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "Console-Applications/Games",
+        "Console-Applications/Banking-System",
+        "GUI/Games"
+    ]
+}
